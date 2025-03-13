@@ -6,5 +6,5 @@ LAB_03 : https://github.com/2303A51661/ADM/blob/main/ADM_Lab03.ipynb
 
 LAB_04 : https://github.com/2303A51661/ADM/blob/main/ADM_4%20(1).ipynb
 
-LAB_05 :
+LAB_05 : https://github.com/2303A51661/ADM/blob/main/ADM_lab_05%20(1).ipynb
 
